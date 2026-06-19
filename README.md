@@ -36,7 +36,7 @@ Graduado em Engenharia de Software e pós-graduando em Arquitetura de Sistemas .
 * Docker
 * Azure DevOps
 * CI/CD
-* Linux básico
+* Kubernetes
 
 **Arquitetura**
 
@@ -50,20 +50,8 @@ Graduado em Engenharia de Software e pós-graduando em Arquitetura de Sistemas .
 ## 📊 GitHub Stats
 
 <p align="center">
- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajuniorfe&layout=compact" />
 </p>
-
----
-
-## 📌 Projetos em destaque
-
-> Fixe no seu perfil os projetos mais relevantes:
-
-* APIs em .NET (Users / Notifications / Payments)
-* Projetos com RabbitMQ
-* Microsserviços com Docker
-* Projetos Angular com consumo de APIs
 
 ---
 
