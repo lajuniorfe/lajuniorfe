@@ -6,7 +6,7 @@ Desenvolvedor Full Stack | .NET | Angular | Microsserviços
 
 ## 🧠 Sobre mim
 
-Desenvolvedor Full Stack com foco em .NET e Angular, atuando na construção e evolução de sistemas corporativos de média e grande escala.
+Desenvolvedor Full Stack com foco em .NET e Angular, atuando na construção e evolução de sistemas corporativos.
 
 Possuo experiência em definição técnica de soluções, arquitetura de microsserviços, integrações entre sistemas, mensageria, APIs e boas práticas de engenharia de software. Tenho forte interesse em arquitetura e na criação de soluções escaláveis, resilientes e alinhadas às necessidades do negócio.
 
