@@ -69,7 +69,7 @@ Graduado em Engenharia de Software e pós-graduando em Arquitetura de Sistemas .
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/SEU_LINK
+* LinkedIn: https://www.linkedin.com/in/luizfjunior
 * GitHub: https://github.com/lajuniorfe
 
 ---
